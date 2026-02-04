@@ -671,11 +671,7 @@
   <section class="hero" id="sobre">
     <div class="hero-content">
       <div class="hero-text">
-        <div class="badge">
-          <span class="badge-dot"></span>
-          Disponível para projetos
-        </div>
-        
+      
         <h1>
           Primeiro-Sargento e<br/>
           <span class="gradient-text">Engenheiro Informático</span>
