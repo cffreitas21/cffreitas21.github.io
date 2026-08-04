@@ -558,6 +558,19 @@ h2{
   gap: 10px;
 }
 
+.project-details {
+  margin-top: 1.25rem;
+}
+
+.project-details p {
+  margin: 0.6rem 0;
+  line-height: 1.6;
+}
+
+.project-details strong {
+  font-weight: 600;
+}
+
 /* Contact */
 .contact-section{
   background: var(--bg-card);
